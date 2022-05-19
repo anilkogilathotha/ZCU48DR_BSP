@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:47:39 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Fri Oct 22 13:39:29 2021
+# Process ID: 265236
+# Current directory: /group/xir_rfapps01/Users/vve/RF_TRD/216/work_scripts/scripts
+# Command line: vivado -mode batch -source rfan_tests.tcl -tclargs 2021.2_1022_1 xczu48dr-fsvg1517-2-e xilinx.com:zcu208:part0 1 1 0 0 1 0 0 0 1 32 0 1 1 0 1 1 trd 0 0 0 0 0 0 0 0 0 0
+# Log file: /group/xir_rfapps01/Users/vve/RF_TRD/216/work_scripts/scripts/vivado.log
+# Journal file: /group/xir_rfapps01/Users/vve/RF_TRD/216/work_scripts/scripts/vivado.jou
+# Running On: xirengwts05, OS: Linux, CPU Frequency: 2600.000 MHz, CPU Physical cores: 28, Host memory: 540249 MB
+#-----------------------------------------------------------
+source rfan_tests.tcl
